@@ -1,0 +1,49 @@
+Validating models...
+
+0 errors found
+November 08, 2017 - 16:44:51
+Django version 1.6.11, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+November 08, 2017 - 17:25:57
+Django version 1.6.11, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+November 08, 2017 - 17:29:19
+Django version 1.6.11, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+November 08, 2017 - 17:29:25
+Django version 1.6.11, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2017 - 17:50:46
+Django version 1.11.7, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2017 - 17:53:14
+Django version 1.11.7, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 08, 2017 - 17:57:48
+Django version 1.11.7, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
