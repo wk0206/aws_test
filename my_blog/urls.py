@@ -19,7 +19,9 @@ from article import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    #url(r'^$', views.home),
-    url(r'^(?P<parameter>\d+)/$', views.detail, name = 'detail'),
+    url(r'^$', views.home, name='home'),
+    url(r'^test/$', views.test),
+    #url(r'^(?P<parameter>\d+)/$', views.detail, name = 'detail'),
+    url(r'^(?P<id>\d+)/$', views.detail, name='detail'),
 
 ]
