@@ -23,5 +23,6 @@ urlpatterns = [
     url(r'^test/', views.test),
     #url(r'^(?P<parameter>\d+)/$', views.detail, name = 'detail'),
     url(r'^(?P<id>\d+)/$', views.detail, name='detail'),
+    url(r'^(?P<category>\s+)/$', views.category, name='detail'),
 
 ]
