@@ -54,3 +54,10 @@ November 15, 2017 - 22:01:41
 Django version 1.8.7, using settings 'my_blog.settings'
 Starting development server at http://localhost:8000/
 Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2017 - 15:15:07
+Django version 1.8.7, using settings 'my_blog.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
