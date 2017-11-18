@@ -20,9 +20,12 @@ from article import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.home, name='home'),
+    url(r'^date/(?P<date>\d+)$', views.dateGroup, name="dateGroup"),
     url(r'^test/', views.test),
     #url(r'^(?P<parameter>\d+)/$', views.detail, name = 'detail'),
     url(r'^(?P<id>\d+)/$', views.detail, name='detail'),
-    url(r'^(?P<category>\s+)/$', views.category, name='detail'),
+    url(r'^category/(?P<cate>\S+)/$', views.category, name='category'),
+    #url(r'^(?P<dateX>[0-9]{4}/[0-9]{2}/[0-9]{2})$', views.dateGroup, name="dateGroup"),
+
 
 ]
